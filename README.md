@@ -1,2 +1,2 @@
 # gcf-test
-GCF is triggered! v3
+GCF is triggered! v2
